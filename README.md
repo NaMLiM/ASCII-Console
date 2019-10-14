@@ -7,4 +7,6 @@ Used [FFMPEG](https://ffmpeg.zeranoe.com/builds/) to convert the video from vide
 
 Used [AscGen2](https://sourceforge.net/projects/ascgen2/) to convert image to ascii.
 
+Used [Bass.NET](http://www.bass.radio42.com) to play the mp3.
+
 ```I am doing this for fun and experiment```
