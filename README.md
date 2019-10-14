@@ -3,8 +3,8 @@
 
 ### How To Use
 
-You need an application to convert the video from video format to image sequence like [FFMPEG](https://ffmpeg.zeranoe.com/builds/).
+Used [FFMPEG](https://ffmpeg.zeranoe.com/builds/) to convert the video from video format to image sequence.
 
-You need an application that can convert image to ascii like [AscGen2](https://sourceforge.net/projects/ascgen2/).
+Used [AscGen2](https://sourceforge.net/projects/ascgen2/) to convert image to ascii.
 
 ```I am doing this for fun and experiment```
